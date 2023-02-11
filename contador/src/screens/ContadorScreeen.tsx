@@ -20,14 +20,6 @@ const styles = StyleSheet.create({
   container:{
     flex:1,
     justifyContent:'center',
-    shadowColor: "#000",
-    shadowOffset: {
-      width: 110,
-      height: 110,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 10.32,
-    elevation: 16,
   },
   contador:{
     textAlign:'center',

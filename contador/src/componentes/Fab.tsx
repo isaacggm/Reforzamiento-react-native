@@ -24,9 +24,7 @@ const styles = StyleSheet.create({
         padding:12,
         width:100,
         height:100,
-        justifyContent:'center'
-        
-        
+        justifyContent:'center'        
     },
     fabPositionBR:{
         position:'absolute',
